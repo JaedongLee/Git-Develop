@@ -1,1 +1,2 @@
-Git is a great develop tool
+Git is a distributed version control system
+Git is free software
